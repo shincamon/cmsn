@@ -16,8 +16,8 @@ const CONFIG = {
     question: 'đố bpl biết sinh nhật này đnhl sẽ tặng j cho mày',
     btnReply: 'Gửi cho bạn iu <3',
     reply: 'bpl ko cần j cả, bpl chỉ cần tấm chân tình của đnhl là đủ',
-    mess: 'mày khoải, tao có bồ r',
+    mess: 'xúc động chưa cđ mất nết',
     messDesc: 'mốt đi Vũng Tàu chung nha bạn hiền',
-    btnAccept: 'yên tâm BPL cuói cub chở đnhl đi muôn ',
+    btnAccept: 'yên tâm BPL sẽ cưỡi cub chở đnhl đi muôn nơi ',
     messLink: 'https://web.facebook.com/happy.birthday.658069' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
